@@ -1,0 +1,45 @@
+# Core Python packages
+pandas
+numpy
+scikit-learn
+matplotlib
+seaborn
+jupyter
+python-dotenv
+
+# Time-series & deep learning
+tensorflow
+keras
+torch
+torchvision
+pytorch-lightning
+statsmodels
+
+# Finance APIs
+yfinance
+finnhub-python
+requests
+
+# NLP for insights (optional)
+transformers
+openai
+spacy
+
+# FastAPI backend
+fastapi
+uvicorn
+
+# Database
+sqlalchemy
+psycopg2-binary
+
+# Task Scheduling
+celery
+redis
+
+# Frontend (React not listed here; handled via npm in /frontend)
+
+# Utility & Testing
+tqdm
+pytest
+
